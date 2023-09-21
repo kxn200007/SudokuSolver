@@ -10,7 +10,7 @@ SudokuSolver is a command-line Sudoku puzzle generator and solver that offers en
 - **Difficulty Levels:** Enjoy puzzles of different difficulty levels, from easy to expert.
 - **Clean Formatting:** The Sudoku grid is neatly formatted for clear puzzle-solving.
 
-Usage
+## Usage
 * Choose your option from the interactive menu:
 * (C)ontinue: Generate a new puzzle.
 * (S)olve: Solve the current puzzle.
